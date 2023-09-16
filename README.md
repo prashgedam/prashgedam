@@ -1,6 +1,4 @@
-![logo](https://github.com/prashgedam/prashgedam/commit/60c4a6c2cf2e7da8438c29a85ebedacab02eb1a7)
-
-
+![logo](https://github.com/prashgedam/prashgedam/blob/main/BANNER.png)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
