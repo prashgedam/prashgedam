@@ -12,6 +12,8 @@
        <h2><center>I'm a passionate in Data Analyst...</center></h2>
     </section>
 
+    <marquee behavior="scroll" direction="left">
+Prash    </marquee>
 - 🔭 I’m currently working on **Tableau Project**
 
 - 🌱 I’m currently learning **Power BI, Machine Learning, Statistics, Regex, Seaborn, Sklearn**
