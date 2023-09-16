@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashnnaki Gedam</h1>
 <h3 align="center">A passionate Data Analysts from India</h3>
 
-<img align="right" alt="coding" width="400" scr="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashgedam&label=Profile%20views&color=0e75b6&style=flat" alt="prashgedam" /> </p>
 
