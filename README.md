@@ -1,3 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Profile</title>
+</head>
+<body>
+    <header>
+        <h1>Hello, I'm Prashnnaki Gedam!</h1>
+    </header>
+    <section>
+        <h2>About Me</h2>
+        <p>I'm a passionate in Data Analyst...</p>
+    </section>
+
 - 🔭 I’m currently working on **Tableau Project**
 
 - 🌱 I’m currently learning **Power BI, Machine Learning, Statistics, Regex, Seaborn, Sklearn**
