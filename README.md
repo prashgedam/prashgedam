@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Power BI, Machine Learning, Statistics, Regex, Seaborn, Sklearn**
 
 - 👯 I’m looking to collaborate on **Student Database Management**
+
 <img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
 
@@ -41,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prashgedam&show_icons=true&locale=en" alt="prashgedam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prashgedam&" alt="prashgedam" /></p>
+
