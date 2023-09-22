@@ -1,4 +1,4 @@
-![logo](https://github.com/prashgedam/prashgedam/blob/main/bannerprash1.png)
+![logo](https://github.com/prashgedam/prashgedam/blob/main/bannerprash1.jpg)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
