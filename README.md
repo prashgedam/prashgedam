@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **prashgedam@gmail.com**
 
-- 📄 Know about my experiences [https://prashnnaki_gedam_data.tiiny.site/](https://prashnnaki_gedam_data.tiiny.site/)
+- 📄 Know about my experiences [https://ivory-daffi-89.tiiny.site](https://ivory-daffi-89.tiiny.site)
 
 - ⚡ Fun fact **I am Funny😂**
 
