@@ -19,7 +19,7 @@
 
 - 👯 I’m looking to collaborate on **Student Database Management**
 
-- 🤝 I’m looking for help with **Python Projects**
+- 🤝 I am looking for help with **Python Projects**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/prashgedam](https://linktr.ee/prashgedam)
 
