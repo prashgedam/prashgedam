@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/prashgedam](https://linktr.ee/prashgedam)
 
-- 📝 I regularly write articles on [https://prashgedam.blogspot.com/](https://prashgedam.blogspot.com/)
+- 📝 I regularly write articles on [Blogspot](https://prashgedam.blogspot.com/)
 
 - 💬 Ask me about **SQL, Python, Tableau, HTML, Excel, WordPress**
 
