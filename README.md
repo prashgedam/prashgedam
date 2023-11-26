@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <h1>Hello, Iam Prashnnaki Gedam!</h1>
+        <h1>Hello, I am Prashnnaki Gedam!</h1>
     </header>
     <section>
        <h2><center>I'm a passionate in Data Analyst..</center></h2>
