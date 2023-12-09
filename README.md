@@ -25,7 +25,7 @@
 
 - 📝 I regularly write articles on [Blogspot](https://prashgedam.blogspot.com/)
 
-- 💬 Ask me about the **SQL, Python, Tableau, HTML, Excel, WordPress**
+- 💬 Ask me about the **SQL, Python, Tableau, HTML, Excel & WordPress**
 
 - 📫 How to reach me **prashgedam@gmail.com**
 
