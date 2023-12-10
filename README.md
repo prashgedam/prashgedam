@@ -17,7 +17,7 @@
 
   <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 
-- 👯 I’m looking to collaborate on **Student Database Management**
+- 👯 I am looking to collaborate on **Student Database Management**
 
 - 🤝 I am looking for help with **Python Projects**
 
