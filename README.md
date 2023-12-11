@@ -9,7 +9,7 @@
         <h1>Hello, I am Prashnnaki Gedam!</h1>
     </header>
     <section>
-       <h2><center>I'm a passionate in Data Analyst..</center></h2>
+       <h2><center>I'm a passionate in Data Analyst.</center></h2>
     </section>
 - 🔭 I’m currently working on **Tableau Projects**
 
