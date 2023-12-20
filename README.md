@@ -11,7 +11,7 @@
     <section>
        <h2><center>I'm a passionate in Data Analyst.</center></h2>
     </section>
-- 🔭 I’m currently working on **Tableau Projects**
+- 🔭 I am currently working on **Tableau Projects**
 
 - 🌱 I’m currently learning **Power BI, Machine Learning, Statistics, Regex, Seaborn, Sklearn**
 
